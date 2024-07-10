@@ -3,7 +3,7 @@ import Profile from './profile';
 
 const teamMembers = [
   { name: 'Alex Campos', role: 'CEO', imageUrl: 'alex.jpg' },
-  { name: 'Alejandro Campos', role: 'CTO', imageUrl: 'alejandro.jpg' },
+  { name: 'Alejandro Campos', role: 'CTO', imageUrl: 'alejandro.jpg'},
 ];
 
 function Gallery() {
